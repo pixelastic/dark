@@ -5,10 +5,11 @@ const exists = require('firost/lib/exists');
 const download = require('firost/lib/download');
 const run = require('firost/lib/run');
 const writeJson = require('firost/lib/writeJson');
+const readJson = require('firost/lib/readJson');
 const _ = require('golgoth/lib/lodash');
 
 (async () => {
-  const world = 'adam';
+  const world = 'eva';
   const urls = await read(`./tmp/${world}.txt`);
   const characters = [];
   await pMap(
@@ -48,5 +49,7 @@ const _ = require('golgoth/lib/lodash');
   );
 
   const dataPath = './lib/data.json';
-  await writeJson(characters, dataPath);
+  const data = await readJson(dataPath);
+  const newData = _.concat(data, characters);
+  await writeJson(newData, dataPath);
 })();
