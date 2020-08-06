@@ -1,8 +1,12 @@
 {
   "devDependencies": {
-    "aberlaas": "1.12.2"
+    "aberlaas": "1.12.2",
+    "firost": "1.11.2",
+    "golgoth": "1.3.2"
   },
-  "files": ["lib/*.js"],
+  "files": [
+    "lib/*.js"
+  ],
   "license": "MIT",
   "main": "lib/main.js",
   "name": "dark",
@@ -15,5 +19,8 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "norska": "0.15.1"
+  }
 }
