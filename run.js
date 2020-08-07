@@ -13,8 +13,7 @@ const _ = require('golgoth/lib/lodash');
   const newData = [];
   await pMap(characters, async (character) => {
     const name = character.name;
-    const [firstName, _lastName] = _.words(name);
-    const lastName = _.upperCase(_lastName);
+    const [firstName, lastName] = _.words(name);
 
     const world = character.world;
     const year = character.time;
@@ -23,7 +22,7 @@ const _ = require('golgoth/lib/lodash');
     const slug = _.camelCase(`${lastName}-${firstName}-${world}-${year}`);
     const pictureUrl = character.wiki.picture;
     const picturePath = `assets/pictures/${slug}.png`;
-    await download(pictureUrl, picturePath);
+    // await download(pictureUrl, `src/${picturePath}`);
 
     newData.push({
       firstName,
@@ -34,7 +33,6 @@ const _ = require('golgoth/lib/lodash');
       picture: picturePath,
     });
   });
-  console.info(newData);
 
-  // await writeJson(newData, './src/_data/characters.json');
+  await writeJson(newData, './src/_data/characters.json');
 })();
