@@ -1,0 +1,15 @@
+extends /_includes/layouts/core
+
+block meta
+  - meta.title = "Custom title"
+  - meta.description = "Custom description"
+  //- see also: meta.twitter, meta.image and meta.url
+
+block content
+  .flex.flex-row.flex-wrap
+    each character in data.list.adam
+      .flex-none.w-50p.flex.flex-row.justify-center.p-1
+        +character(character)
+    each character in data.list.eva
+      .flex-none.w-50p.flex.flex-row.justify-center.p-1
+        +character(character)

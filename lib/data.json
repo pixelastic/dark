@@ -1,891 +1,862 @@
 [
   {
-    "name": "Adam",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d0/Mature_Adam.png/revision/latest/scale-to-width-down/350?cb=20200629032856",
-    "time": "Mature",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Adam",
-    "world": "adam"
-  },
-  {
-    "name": "Adam",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a0/Adam.PNG/revision/latest/scale-to-width-down/350?cb=20190622150150",
-    "time": "Old",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Adam",
-    "world": "adam"
-  },
-  {
     "name": "Agnes Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/57/Profile_-_Agnes.jpg/revision/latest/scale-to-width-down/350?cb=20180113194901",
+    "slug": "agnesNielsen1954Adam",
     "time": "1954",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Agnes_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/57/Profile_-_Agnes.jpg/revision/latest/scale-to-width-down/350?cb=20180113194901",
+      "url": "https://dark-netflix.fandom.com//wiki/Agnes_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Agnes Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/e/e8/Agnes_nielsen_1921.png/revision/latest?cb=20190701113843",
+    "slug": "agnesNielsen1921Adam",
     "time": "1921",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Agnes_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/e/e8/Agnes_nielsen_1921.png/revision/latest?cb=20190701113843",
+      "url": "https://dark-netflix.fandom.com//wiki/Agnes_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Aleksander Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/11/Aleksander_2019.png/revision/latest/scale-to-width-down/350?cb=20200629192348",
+    "slug": "aleksanderTiedemann2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Aleksander_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/11/Aleksander_2019.png/revision/latest/scale-to-width-down/350?cb=20200629192348",
+      "url": "https://dark-netflix.fandom.com//wiki/Aleksander_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Aleksander Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/27/Aleksander_1986.png/revision/latest/scale-to-width-down/350?cb=20200629192327",
+    "slug": "aleksanderTiedemann1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Aleksander_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/27/Aleksander_1986.png/revision/latest/scale-to-width-down/350?cb=20200629192327",
+      "url": "https://dark-netflix.fandom.com//wiki/Aleksander_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Bartosz Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/8/8a/Bartosz.png/revision/latest/scale-to-width-down/350?cb=20171226012938",
+    "slug": "bartoszTiedemann2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/8/8a/Bartosz.png/revision/latest/scale-to-width-down/350?cb=20171226012938",
+      "url": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Bartosz Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/15/Bartosz_1904.png/revision/latest/scale-to-width-down/350?cb=20200629025432",
+    "slug": "bartoszTiedemann1904Adam",
     "time": "1904",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/15/Bartosz_1904.png/revision/latest/scale-to-width-down/350?cb=20200629025432",
+      "url": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Bartosz Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2e/Bartosz_1921.png/revision/latest/scale-to-width-down/350?cb=20200629025555",
+    "slug": "bartoszTiedemann1921Adam",
     "time": "1921",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2e/Bartosz_1921.png/revision/latest/scale-to-width-down/350?cb=20200629025555",
+      "url": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Bernadette Wöller",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0c/Bernadette.png/revision/latest/scale-to-width-down/350?cb=20190703063040",
-    "time": "Adam&#39;s World",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernadette_W%C3%B6ller",
+    "slug": "bernadetteWollerAdam39SWorldAdam",
+    "time": "2019",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0c/Bernadette.png/revision/latest/scale-to-width-down/350?cb=20190703063040",
+      "url": "https://dark-netflix.fandom.com//wiki/Bernadette_W%C3%B6ller"
+    },
     "world": "adam"
   },
   {
     "name": "Bernadette Wöller",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/24/BenniEveWorld.png/revision/latest/scale-to-width-down/350?cb=20200630141927",
-    "time": "Eve&#39;s World",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernadette_W%C3%B6ller",
-    "world": "adam"
+    "slug": "bernadetteWollerOriginalWorldAdam",
+    "time": "2019",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/BernadetteOGWorld.png/revision/latest/scale-to-width-down/350?cb=20200630141946",
+      "url": "https://dark-netflix.fandom.com//wiki/Bernadette_W%C3%B6ller"
+    },
+    "world": "original"
   },
   {
-    "name": "Bernadette Wöller",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/BernadetteOGWorld.png/revision/latest/scale-to-width-down/350?cb=20200630141946",
-    "time": "Original World",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernadette_W%C3%B6ller",
+    "name": "Bernd Doppler",
+    "slug": "berndDoppler1986Adam",
+    "time": "1986",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/24/Profile_-_Bernd_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180113195921",
+      "url": "https://dark-netflix.fandom.com//wiki/Bernd_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Bernd Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/24/Profile_-_Bernd_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180113195921",
-    "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernd_Doppler",
-    "world": "adam"
-  },
-  {
-    "name": "Bernd Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/9/91/Profile_-_Bernd_1953.JPG/revision/latest/scale-to-width-down/350?cb=20180113195953",
+    "slug": "berndDoppler1953Adam",
     "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernd_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/9/91/Profile_-_Bernd_1953.JPG/revision/latest/scale-to-width-down/350?cb=20180113195953",
+      "url": "https://dark-netflix.fandom.com//wiki/Bernd_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Charlotte Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/3a/Portal_%E2%80%93_Charlotte.jpg/revision/latest/scale-to-width-down/350?cb=20171203150640",
+    "slug": "charlotteDoppler2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Charlotte_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/3a/Portal_%E2%80%93_Charlotte.jpg/revision/latest/scale-to-width-down/350?cb=20171203150640",
+      "url": "https://dark-netflix.fandom.com//wiki/Charlotte_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Charlotte Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f2/Charlotte1986.jpg/revision/latest/scale-to-width-down/350?cb=20180114232215",
+    "slug": "charlotteDoppler1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Charlotte_Doppler",
-    "world": "adam"
-  },
-  {
-    "name": "Clara Schrage",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/61/Clara_Schrage.png/revision/latest/scale-to-width-down/350?cb=20200525171337",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Clara_Schrage",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f2/Charlotte1986.jpg/revision/latest/scale-to-width-down/350?cb=20180114232215",
+      "url": "https://dark-netflix.fandom.com//wiki/Charlotte_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Claudia Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/18/Claudia_2019.png/revision/latest/scale-to-width-down/350?cb=20200629193350",
+    "slug": "claudiaTiedemann2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/18/Claudia_2019.png/revision/latest/scale-to-width-down/350?cb=20200629193350",
+      "url": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Claudia Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/12/Claudia_1986.png/revision/latest/scale-to-width-down/350?cb=20200629193332",
+    "slug": "claudiaTiedemann1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/12/Claudia_1986.png/revision/latest/scale-to-width-down/350?cb=20200629193332",
+      "url": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Claudia Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f6/Claudia_1953.png/revision/latest/scale-to-width-down/350?cb=20200629193301",
+    "slug": "claudiaTiedemann1953Adam",
     "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann",
-    "world": "adam"
-  },
-  {
-    "name": "Clausen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c0/Clausen.PNG/revision/latest/scale-to-width-down/350?cb=20190622155900",
-    "time": "2020",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Clausen",
-    "world": "adam"
-  },
-  {
-    "name": "Clausen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/69/2x0217ClausenBrother.jpg/revision/latest/scale-to-width-down/350?cb=20190808222622",
-    "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Clausen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f6/Claudia_1953.png/revision/latest/scale-to-width-down/350?cb=20200629193301",
+      "url": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Daniel Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/13/Daniel_Kahnwald_on_construction_site.png/revision/latest/scale-to-width-down/350?cb=20181104232100",
+    "slug": "danielKahnwaldAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Daniel_Kahnwald",
-    "world": "adam"
-  },
-  {
-    "name": "Dead Animals",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/01/1x03_0006_DeadBird.jpg/revision/latest/scale-to-width-down/350?cb=20190809234710",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Dead_Animals",
-    "world": "adam"
-  },
-  {
-    "name": "Donata Kraus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f5/Donata_Kraus.png/revision/latest/scale-to-width-down/350?cb=20200525181816",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Donata_Kraus",
-    "world": "adam"
-  },
-  {
-    "name": "Doppler family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/45/2x0801DopplerPhoto.jpg/revision/latest/scale-to-width-down/350?cb=20190730041345",
-    "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Doppler_family",
-    "world": "adam"
-  },
-  {
-    "name": "Doppler family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f4/2x05_0040_TannhausCharlottePhoto.jpg/revision/latest/scale-to-width-down/350?cb=20190822001245",
-    "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Doppler_family",
-    "world": "adam"
-  },
-  {
-    "name": "Doppler family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/30/2x0803ElisabethNoahCharlotte.jpg/revision/latest/scale-to-width-down/350?cb=20190730041515",
-    "time": "Unknown",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Doppler_family",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/13/Daniel_Kahnwald_on_construction_site.png/revision/latest/scale-to-width-down/350?cb=20181104232100",
+      "url": "https://dark-netflix.fandom.com//wiki/Daniel_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Doris Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/65/Doris.tiedemann.png/revision/latest?cb=20180101005417",
+    "slug": "dorisTiedemannAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Doris_Tiedemann",
-    "world": "adam"
-  },
-  {
-    "name": "Dr. Reimann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/8/86/Doctor_Reinmann.png/revision/latest/scale-to-width-down/350?cb=20200525184730",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Dr._Reimann",
-    "world": "adam"
-  },
-  {
-    "name": "Dr. Schaller",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a2/1x03_0036_Veterinarian.jpg/revision/latest/scale-to-width-down/350?cb=20190809235800",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Dr._Schaller",
-    "world": "adam"
-  },
-  {
-    "name": "Edda Heimann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a7/1x07_0013_Examiner.jpg/revision/latest/scale-to-width-down/350?cb=20190810222311",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Edda_Heimann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/65/Doris.tiedemann.png/revision/latest?cb=20180101005417",
+      "url": "https://dark-netflix.fandom.com//wiki/Doris_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Egon Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c4/Egon_1986.png/revision/latest/scale-to-width-down/350?cb=20200629215452",
+    "slug": "egonTiedemann1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Egon_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c4/Egon_1986.png/revision/latest/scale-to-width-down/350?cb=20200629215452",
+      "url": "https://dark-netflix.fandom.com//wiki/Egon_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Egon Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2c/Egon_1953.png/revision/latest/scale-to-width-down/350?cb=20200629215502",
+    "slug": "egonTiedemann1953Adam",
     "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Egon_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2c/Egon_1953.png/revision/latest/scale-to-width-down/350?cb=20200629215502",
+      "url": "https://dark-netflix.fandom.com//wiki/Egon_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Elisabeth Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/cf/Elisabeth_Doppler.jpg/revision/latest/scale-to-width-down/350?cb=20180114151126",
+    "slug": "elisabethDoppler2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Elisabeth_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/cf/Elisabeth_Doppler.jpg/revision/latest/scale-to-width-down/350?cb=20180114151126",
+      "url": "https://dark-netflix.fandom.com//wiki/Elisabeth_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Elisabeth Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a4/Elisabeth_Doppler_future2052.jpg/revision/latest/scale-to-width-down/350?cb=20190622191036",
+    "slug": "elisabethDoppler2053Adam",
     "time": "2053",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Elisabeth_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a4/Elisabeth_Doppler_future2052.jpg/revision/latest/scale-to-width-down/350?cb=20190622191036",
+      "url": "https://dark-netflix.fandom.com//wiki/Elisabeth_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Erik Obendorf",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/43/Erik_Obendorf_Missing_Poster.jpg/revision/latest?cb=20171113012631",
+    "slug": "erikObendorfAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Erik_Obendorf",
-    "world": "adam"
-  },
-  {
-    "name": "Erna",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/e/e4/2x0406Erna1921.jpg/revision/latest/scale-to-width-down/350?cb=20190808012238",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Erna",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/43/Erik_Obendorf_Missing_Poster.jpg/revision/latest?cb=20171113012631",
+      "url": "https://dark-netflix.fandom.com//wiki/Erik_Obendorf"
+    },
     "world": "adam"
   },
   {
     "name": "Franziska Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/56/Franziska_2019.png/revision/latest/scale-to-width-down/350?cb=20200629220136",
+    "slug": "franziskaDoppler2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Franziska_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/56/Franziska_2019.png/revision/latest/scale-to-width-down/350?cb=20200629220136",
+      "url": "https://dark-netflix.fandom.com//wiki/Franziska_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Franziska Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f7/Franziska_1921.png/revision/latest/scale-to-width-down/350?cb=20200629220148",
+    "slug": "franziskaDoppler1921Adam",
     "time": "1921",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Franziska_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f7/Franziska_1921.png/revision/latest/scale-to-width-down/350?cb=20200629220148",
+      "url": "https://dark-netflix.fandom.com//wiki/Franziska_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Greta Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/43/Profile_-_Greta.JPG/revision/latest/scale-to-width-down/350?cb=20180120102252",
+    "slug": "gretaDopplerAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Greta_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/43/Profile_-_Greta.JPG/revision/latest/scale-to-width-down/350?cb=20180120102252",
+      "url": "https://dark-netflix.fandom.com//wiki/Greta_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Gretchen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/03/Gretchen.jpg/revision/latest/scale-to-width-down/350?cb=20181209200031",
+    "slug": "gretchenAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Gretchen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/03/Gretchen.jpg/revision/latest/scale-to-width-down/350?cb=20181209200031",
+      "url": "https://dark-netflix.fandom.com//wiki/Gretchen"
+    },
     "world": "adam"
   },
   {
     "name": "Gustav Tannhaus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c5/51999270.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg/revision/latest/scale-to-width-down/350?cb=20200714001308",
+    "slug": "gustavTannhaus1888Adam",
     "time": "1888",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Gustav_Tannhaus",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c5/51999270.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg/revision/latest/scale-to-width-down/350?cb=20200714001308",
+      "url": "https://dark-netflix.fandom.com//wiki/Gustav_Tannhaus"
+    },
     "world": "adam"
   },
   {
     "name": "Gustav Tannhaus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/36/3x03_young_gustav_tannhaus_light.png/revision/latest/scale-to-width-down/350?cb=20200714015516",
+    "slug": "gustavTannhaus1822Adam",
     "time": "1822",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Gustav_Tannhaus",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/36/3x03_young_gustav_tannhaus_light.png/revision/latest/scale-to-width-down/350?cb=20200714015516",
+      "url": "https://dark-netflix.fandom.com//wiki/Gustav_Tannhaus"
+    },
     "world": "adam"
   },
   {
     "name": "Hannah Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0d/Hannah.png/revision/latest/scale-to-width-down/350?cb=20171207020113",
+    "slug": "hannahKahnwaldAdultAdam",
     "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hannah_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0d/Hannah.png/revision/latest/scale-to-width-down/350?cb=20171207020113",
+      "url": "https://dark-netflix.fandom.com//wiki/Hannah_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Hannah Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/6a/Hannah_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101123036",
+    "slug": "hannahKahnwaldYoungAdam",
     "time": "Young",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hannah_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/6a/Hannah_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101123036",
+      "url": "https://dark-netflix.fandom.com//wiki/Hannah_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Hannah Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/3x01-_0020_28HannahPregnant.jpg/revision/latest/scale-to-width-down/350?cb=20200703044712",
+    "slug": "hannahNielsenAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hannah_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/3x01-_0020_28HannahPregnant.jpg/revision/latest/scale-to-width-down/350?cb=20200703044712",
+      "url": "https://dark-netflix.fandom.com//wiki/Hannah_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Hanno Tauber",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/4e/Portal_%E2%80%93_Noah.jpg/revision/latest/scale-to-width-down/350?cb=20171203223020",
+    "slug": "hannoTauberAdultAdam",
     "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/4e/Portal_%E2%80%93_Noah.jpg/revision/latest/scale-to-width-down/350?cb=20171203223020",
+      "url": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber"
+    },
     "world": "adam"
   },
   {
     "name": "Hanno Tauber",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/54/Noah-young.PNG/revision/latest/scale-to-width-down/350?cb=20190622163012",
+    "slug": "hannoTauberYouthAdam",
     "time": "Youth",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/54/Noah-young.PNG/revision/latest/scale-to-width-down/350?cb=20190622163012",
+      "url": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber"
+    },
     "world": "adam"
   },
   {
     "name": "Hanno Tauber",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f1/Kid_Noah.png/revision/latest/scale-to-width-down/350?cb=20200629031444",
+    "slug": "hannoTauberKidAdam",
     "time": "Kid",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber",
-    "world": "adam"
-  },
-  {
-    "name": "Heinrich Tannhaus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/5c/Heinrich_tannhaus_light.png/revision/latest/scale-to-width-down/350?cb=20200708033743",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Heinrich_Tannhaus",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/f1/Kid_Noah.png/revision/latest/scale-to-width-down/350?cb=20200629031444",
+      "url": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber"
+    },
     "world": "adam"
   },
   {
     "name": "Helene Albers",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0c/Screenshot_from_2020-07-03_01-53-24.png/revision/latest/scale-to-width-down/350?cb=20200703065500",
+    "slug": "heleneAlbers1987Adam",
     "time": "1987",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Helene_Albers",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0c/Screenshot_from_2020-07-03_01-53-24.png/revision/latest/scale-to-width-down/350?cb=20200703065500",
+      "url": "https://dark-netflix.fandom.com//wiki/Helene_Albers"
+    },
     "world": "adam"
   },
   {
     "name": "Helene Albers",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/02/S03.jpg/revision/latest/scale-to-width-down/350?cb=20200703174056",
+    "slug": "heleneAlbers1954Adam",
     "time": "1954",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Helene_Albers",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/02/S03.jpg/revision/latest/scale-to-width-down/350?cb=20200703174056",
+      "url": "https://dark-netflix.fandom.com//wiki/Helene_Albers"
+    },
     "world": "adam"
   },
   {
     "name": "Helge Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a3/Helge2019.png/revision/latest?cb=20180115004059",
+    "slug": "helgeDoppler2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Helge_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a3/Helge2019.png/revision/latest?cb=20180115004059",
+      "url": "https://dark-netflix.fandom.com//wiki/Helge_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Helge Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/52/Helge1986.png/revision/latest?cb=20180115003809",
+    "slug": "helgeDoppler1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Helge_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/52/Helge1986.png/revision/latest?cb=20180115003809",
+      "url": "https://dark-netflix.fandom.com//wiki/Helge_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Helge Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/ab/Helge1953.png/revision/latest?cb=20180115003725",
+    "slug": "helgeDoppler1953Adam",
     "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Helge_Doppler",
-    "world": "adam"
-  },
-  {
-    "name": "Hermann Albers",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/63/1x03_0013_FarmerAlbers.jpg/revision/latest/scale-to-width-down/350?cb=20190809235020",
-    "time": "Farmer",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hermann_Albers",
-    "world": "adam"
-  },
-  {
-    "name": "Hermann Albers",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b8/1x03_0012_DeadSheep.jpg/revision/latest/scale-to-width-down/350?cb=20190809235000",
-    "time": "Dead Sheep",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hermann_Albers",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/ab/Helge1953.png/revision/latest?cb=20180115003725",
+      "url": "https://dark-netflix.fandom.com//wiki/Helge_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "H.G. Tannhaus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/Hgtannhaus.png/revision/latest/scale-to-width-down/350?cb=20180114162827",
+    "slug": "hGTannhaus1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/Hgtannhaus.png/revision/latest/scale-to-width-down/350?cb=20180114162827",
+      "url": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus"
+    },
     "world": "adam"
   },
   {
     "name": "H.G. Tannhaus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b4/Hgtannhaus1953.png/revision/latest/scale-to-width-down/350?cb=20180114162827",
+    "slug": "hGTannhaus1953Adam",
     "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b4/Hgtannhaus1953.png/revision/latest/scale-to-width-down/350?cb=20180114162827",
+      "url": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus"
+    },
     "world": "adam"
   },
   {
     "name": "H.G. Tannhaus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c9/H.G._Tannhaus_1971.png/revision/latest/scale-to-width-down/350?cb=20200728145729",
+    "slug": "hGTannhaus1971Adam",
     "time": "1971",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c9/H.G._Tannhaus_1971.png/revision/latest/scale-to-width-down/350?cb=20200728145729",
+      "url": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus"
+    },
     "world": "adam"
   },
   {
     "name": "Ines Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7b/1x10_0018_Ines.jpg/revision/latest/scale-to-width-down/350?cb=20190814212727",
+    "slug": "inesKahnwaldOldAdam",
     "time": "Old",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7b/1x10_0018_Ines.jpg/revision/latest/scale-to-width-down/350?cb=20190814212727",
+      "url": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Ines Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/19/1x03_0042_Ines.jpg/revision/latest/scale-to-width-down/350?cb=20190810000042",
+    "slug": "inesKahnwaldAdultAdam",
     "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/19/1x03_0042_Ines.jpg/revision/latest/scale-to-width-down/350?cb=20190810000042",
+      "url": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Ines Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7b/1x08_0045_Ines.jpg/revision/latest/scale-to-width-down/350?cb=20190814012254",
+    "slug": "inesKahnwaldYoungAdam",
     "time": "Young",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7b/1x08_0045_Ines.jpg/revision/latest/scale-to-width-down/350?cb=20190814012254",
+      "url": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Jana Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2a/Jana2019.png/revision/latest/scale-to-width-down/350?cb=20171220060210",
+    "slug": "janaNielsen2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jana_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2a/Jana2019.png/revision/latest/scale-to-width-down/350?cb=20171220060210",
+      "url": "https://dark-netflix.fandom.com//wiki/Jana_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Jana Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0d/Jana1986.png/revision/latest/scale-to-width-down/350?cb=20171220060200",
+    "slug": "janaNielsen1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jana_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0d/Jana1986.png/revision/latest/scale-to-width-down/350?cb=20171220060200",
+      "url": "https://dark-netflix.fandom.com//wiki/Jana_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Jana Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/78/Jana1953.png/revision/latest/scale-to-width-down/350?cb=20171220060141",
+    "slug": "janaNielsen1953Adam",
     "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jana_Nielsen",
-    "world": "adam"
-  },
-  {
-    "name": "Jasmin Trewen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d6/1x03_0014_JasminTrewen.jpg/revision/latest/scale-to-width-down/350?cb=20190809235044",
-    "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jasmin_Trewen",
-    "world": "adam"
-  },
-  {
-    "name": "Jasmin Trewen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0d/2x03_0051_Jasmin.jpg/revision/latest/scale-to-width-down/350?cb=20190821112255",
-    "time": "1987",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jasmin_Trewen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/78/Jana1953.png/revision/latest/scale-to-width-down/350?cb=20171220060141",
+      "url": "https://dark-netflix.fandom.com//wiki/Jana_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Jonas Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/64/Profile_-_Jonas_2019.jpg/revision/latest/scale-to-width-down/350?cb=20171226150453",
-    "time": "Young #1",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
+    "slug": "jonasKahnwaldYoung2Adam",
+    "time": "Young",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7b/2x06_0008_JonasScar.jpg/revision/latest/scale-to-width-down/350?cb=20190824000132",
+      "url": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Jonas Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7b/2x06_0008_JonasScar.jpg/revision/latest/scale-to-width-down/350?cb=20190824000132",
-    "time": "Young #2",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
-    "world": "adam"
-  },
-  {
-    "name": "Jonas Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/9/9a/Profile_-_Jonas_Future.jpg/revision/latest/scale-to-width-down/350?cb=20171226150454",
+    "slug": "jonasKahnwaldAdultAdam",
     "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/9/9a/Profile_-_Jonas_Future.jpg/revision/latest/scale-to-width-down/350?cb=20171226150454",
+      "url": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Jonas Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d0/Mature_Adam.png/revision/latest/scale-to-width-down/350?cb=20200629032856",
+    "slug": "jonasKahnwaldMatureAdam",
     "time": "Mature",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d0/Mature_Adam.png/revision/latest/scale-to-width-down/350?cb=20200629032856",
+      "url": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Jonas Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a0/Adam.PNG/revision/latest/scale-to-width-down/350?cb=20190622150150",
+    "slug": "jonasKahnwaldOldAdam",
     "time": "Old",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
-    "world": "adam"
-  },
-  {
-    "name": "Justyna Jankowski",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/8/84/1x0209Jankowski.jpg/revision/latest/scale-to-width-down/350?cb=20190808174140",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Justyna_Jankowski",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/a/a0/Adam.PNG/revision/latest/scale-to-width-down/350?cb=20190622150150",
+      "url": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald"
+    },
     "world": "adam"
   },
   {
     "name": "Jürgen Obendorf",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2b/J%C3%BCrgen_Obendorf.png/revision/latest/scale-to-width-down/350?cb=20190724021127",
+    "slug": "jurgenObendorfAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/J%C3%BCrgen_Obendorf",
-    "world": "adam"
-  },
-  {
-    "name": "Kahnwald family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/e/e9/IMG_5118.jpg/revision/latest/scale-to-width-down/350?cb=20200424025108",
-    "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Kahnwald_family",
-    "world": "adam"
-  },
-  {
-    "name": "Kahnwald family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/ff/2x0823InesMichaelPhoto.jpg/revision/latest/scale-to-width-down/350?cb=20190730043710",
-    "time": "1987",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Kahnwald_family",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2b/J%C3%BCrgen_Obendorf.png/revision/latest/scale-to-width-down/350?cb=20190724021127",
+      "url": "https://dark-netflix.fandom.com//wiki/J%C3%BCrgen_Obendorf"
+    },
     "world": "adam"
   },
   {
     "name": "Katharina Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/6c/Portal_%E2%80%93_Katharina.jpg/revision/latest/scale-to-width-down/350?cb=20171203142251",
+    "slug": "katharinaNielsen2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Katharina_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/6c/Portal_%E2%80%93_Katharina.jpg/revision/latest/scale-to-width-down/350?cb=20171203142251",
+      "url": "https://dark-netflix.fandom.com//wiki/Katharina_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Katharina Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c9/Profile_Katharina_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101125352",
+    "slug": "katharinaNielsen1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Katharina_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c9/Profile_Katharina_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101125352",
+      "url": "https://dark-netflix.fandom.com//wiki/Katharina_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Kilian Obendorf",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2c/Screenshot_from_2020-07-03_02-59-41.png/revision/latest/scale-to-width-down/350?cb=20200703080013",
+    "slug": "kilianObendorfAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Kilian_Obendorf",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/2c/Screenshot_from_2020-07-03_02-59-41.png/revision/latest/scale-to-width-down/350?cb=20200703080013",
+      "url": "https://dark-netflix.fandom.com//wiki/Kilian_Obendorf"
+    },
     "world": "adam"
   },
   {
     "name": "Mads Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/46/Mads_1986.jpg/revision/latest?cb=20180110100230",
+    "slug": "madsNielsenAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Mads_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/46/Mads_1986.jpg/revision/latest?cb=20180110100230",
+      "url": "https://dark-netflix.fandom.com//wiki/Mads_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Magnus Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/58/Magnus.png/revision/latest/scale-to-width-down/350?cb=20171226012232",
+    "slug": "magnusNielsen2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Magnus_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/58/Magnus.png/revision/latest/scale-to-width-down/350?cb=20171226012232",
+      "url": "https://dark-netflix.fandom.com//wiki/Magnus_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Magnus Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/14/Magnus_Adult.JPG/revision/latest/scale-to-width-down/350?cb=20190624144810",
+    "slug": "magnusNielsen1921Adam",
     "time": "1921",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Magnus_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/1/14/Magnus_Adult.JPG/revision/latest/scale-to-width-down/350?cb=20190624144810",
+      "url": "https://dark-netflix.fandom.com//wiki/Magnus_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Marek Tannhaus",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/65/MarekParadise.png/revision/latest/scale-to-width-down/350?cb=20200630155513",
+    "slug": "marekTannhausAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Marek_Tannhaus",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/65/MarekParadise.png/revision/latest/scale-to-width-down/350?cb=20200630155513",
+      "url": "https://dark-netflix.fandom.com//wiki/Marek_Tannhaus"
+    },
     "world": "adam"
   },
   {
     "name": "Martha Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/65/Profile_-_Martha.JPG/revision/latest/scale-to-width-down/350?cb=20180113201515",
+    "slug": "marthaNielsen2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen",
-    "world": "adam"
-  },
-  {
-    "name": "Martha Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/e/e4/Alt_martha_S03.jpg/revision/latest/scale-to-width-down/350?cb=20200705123350",
-    "time": "alt universe Marthas",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen",
-    "world": "adam"
-  },
-  {
-    "name": "Martin Döhring",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/f/fb/1x07_0018_Tronte.jpg/revision/latest/scale-to-width-down/350?cb=20190810222541",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martin_D%C3%B6hring",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/65/Profile_-_Martha.JPG/revision/latest/scale-to-width-down/350?cb=20180113201515",
+      "url": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Michael Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7d/Mikkel_2019.png/revision/latest/scale-to-width-down/350?cb=20200629032254",
-    "time": "Young",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Michael_Kahnwald",
-    "world": "adam"
-  },
-  {
-    "name": "Michael Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/28/Michael_2019.png/revision/latest/scale-to-width-down/350?cb=20200629032320",
+    "slug": "michaelKahnwaldAdultAdam",
     "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Michael_Kahnwald",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/28/Michael_2019.png/revision/latest/scale-to-width-down/350?cb=20200629032320",
+      "url": "https://dark-netflix.fandom.com//wiki/Michael_Kahnwald"
+    },
     "world": "adam"
   },
   {
-    "name": "Michael Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7d/Mikkel_2019.png/revision/latest/scale-to-width-down/350?cb=20200629032254",
+    "name": "Mikkel Nielsen",
+    "slug": "michaelKahnwaldYoungAdam",
     "time": "Young",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Mikkel_Nielsen",
-    "world": "adam"
-  },
-  {
-    "name": "Michael Kahnwald",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/28/Michael_2019.png/revision/latest/scale-to-width-down/350?cb=20200629032320",
-    "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Mikkel_Nielsen",
-    "world": "adam"
-  },
-  {
-    "name": "Nielsen family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/3a/2x0243NielsenFamily.jpg/revision/latest/scale-to-width-down/350?cb=20190808222317",
-    "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Nielsen_family",
-    "world": "adam"
-  },
-  {
-    "name": "Nielsen family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d1/1x07_0043_MothersDayPhoto.jpg/revision/latest/scale-to-width-down/350?cb=20190810224426",
-    "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Nielsen_family",
-    "world": "adam"
-  },
-  {
-    "name": "Nielsen family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/da/1x03_0060_JanaTronteWeddingPhoto.jpg/revision/latest/scale-to-width-down/350?cb=20190810001624",
-    "time": "Wedding",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Nielsen_family",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7d/Mikkel_2019.png/revision/latest/scale-to-width-down/350?cb=20200629032254",
+      "url": "https://dark-netflix.fandom.com//wiki/Mikkel_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Peter Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/57/Dark_1x01_-_Peter_Doppler.jpg/revision/latest/scale-to-width-down/350?cb=20171207002215",
+    "slug": "peterDoppler2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Peter_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/57/Dark_1x01_-_Peter_Doppler.jpg/revision/latest/scale-to-width-down/350?cb=20171207002215",
+      "url": "https://dark-netflix.fandom.com//wiki/Peter_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Peter Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/8/8e/YoungPeter.png/revision/latest/scale-to-width-down/350?cb=20200628213655",
+    "slug": "peterDoppler1987Adam",
     "time": "1987",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Peter_Doppler",
-    "world": "adam"
-  },
-  {
-    "name": "Regina Doppler",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/56/Original_Regina.jpg/revision/latest/scale-to-width-down/350?cb=20200702183445",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Regina_Doppler",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/8/8e/YoungPeter.png/revision/latest/scale-to-width-down/350?cb=20200628213655",
+      "url": "https://dark-netflix.fandom.com//wiki/Peter_Doppler"
+    },
     "world": "adam"
   },
   {
     "name": "Regina Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c3/Regina_2019.png/revision/latest/scale-to-width-down/350?cb=20200629192734",
+    "slug": "reginaTiedemann2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c3/Regina_2019.png/revision/latest/scale-to-width-down/350?cb=20200629192734",
+      "url": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Regina Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/9/91/Regina_1986.png/revision/latest/scale-to-width-down/350?cb=20200629192722",
+    "slug": "reginaTiedemann1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/9/91/Regina_1986.png/revision/latest/scale-to-width-down/350?cb=20200629192722",
+      "url": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "Sebastian Krüger",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/ce/Sebastian_Kr%C3%BCger_01.png/revision/latest/scale-to-width-down/350?cb=20190724014630",
+    "slug": "sebastianKrugerAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Sebastian_Kr%C3%BCger",
-    "world": "adam"
-  },
-  {
-    "name": "Selma Ahrens",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/24/Selma_Ahrens.png/revision/latest/scale-to-width-down/350?cb=20200525190303",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Selma_Ahrens",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/ce/Sebastian_Kr%C3%BCger_01.png/revision/latest/scale-to-width-down/350?cb=20190724014630",
+      "url": "https://dark-netflix.fandom.com//wiki/Sebastian_Kr%C3%BCger"
+    },
     "world": "adam"
   },
   {
     "name": "Silja Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/08/Silija.jpg/revision/latest/scale-to-width-down/350?cb=20190624183655",
+    "slug": "siljaTiedemannAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Silja_Tiedemann",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/08/Silija.jpg/revision/latest/scale-to-width-down/350?cb=20190624183655",
+      "url": "https://dark-netflix.fandom.com//wiki/Silja_Tiedemann"
+    },
     "world": "adam"
   },
   {
     "name": "The Unknown",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/38/The_Unknown_%28Young%29.jpg/revision/latest/scale-to-width-down/350?cb=20200628201604",
+    "slug": "theUnknownYoungAdam",
     "time": "Young",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_Unknown",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/38/The_Unknown_%28Young%29.jpg/revision/latest/scale-to-width-down/350?cb=20200628201604",
+      "url": "https://dark-netflix.fandom.com//wiki/The_Unknown"
+    },
     "world": "adam"
   },
   {
     "name": "The Unknown",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d7/The_Unknown_%28Adult%29.jpg/revision/latest/scale-to-width-down/350?cb=20200628201637",
+    "slug": "theUnknownAdultAdam",
     "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_Unknown",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d7/The_Unknown_%28Adult%29.jpg/revision/latest/scale-to-width-down/350?cb=20200628201637",
+      "url": "https://dark-netflix.fandom.com//wiki/The_Unknown"
+    },
     "world": "adam"
   },
   {
     "name": "The Unknown",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/51/The_Unknown_%28Old%29.jpg/revision/latest/scale-to-width-down/350?cb=20200628201619",
+    "slug": "theUnknownOldAdam",
     "time": "Old",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_Unknown",
-    "world": "adam"
-  },
-  {
-    "name": "The four families",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/3c/2x03_0065_FamilyPictures.jpg/revision/latest/scale-to-width-down/350?cb=20190821112816",
-    "time": "Photo",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_four_families",
-    "world": "adam"
-  },
-  {
-    "name": "The four families",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/59/Annotated_sicmundus_families.PNG/revision/latest/scale-to-width-down/350?cb=20200519230535",
-    "time": "Annotated Photo",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_four_families",
-    "world": "adam"
-  },
-  {
-    "name": "Tiedemann family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/23/2x06_0045_TiedemannsToast.jpg/revision/latest/scale-to-width-down/350?cb=20190824000823",
-    "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Tiedemann_family",
-    "world": "adam"
-  },
-  {
-    "name": "Tiedemann family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/53/1x09_0041_ReginaClaudiaPhoto.jpg/revision/latest/scale-to-width-down/350?cb=20190814030709",
-    "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Tiedemann_family",
-    "world": "adam"
-  },
-  {
-    "name": "Tiedemann family",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/65/2x03_0012_TiedemannFamily.jpg/revision/latest/scale-to-width-down/350?cb=20190821111733",
-    "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Tiedemann_family",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/51/The_Unknown_%28Old%29.jpg/revision/latest/scale-to-width-down/350?cb=20200628201619",
+      "url": "https://dark-netflix.fandom.com//wiki/The_Unknown"
+    },
     "world": "adam"
   },
   {
     "name": "Torben Wöller",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/45/TorbenWoller_dark_netflix.jpg/revision/latest/scale-to-width-down/339?cb=20190624155740",
+    "slug": "torbenWoller2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Torben_W%C3%B6ller",
-    "world": "adam"
-  },
-  {
-    "name": "Torben Wöller",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b6/2x0810Torben.jpg/revision/latest/scale-to-width-down/350?cb=20190730042410",
-    "time": "2020",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Torben_W%C3%B6ller",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/45/TorbenWoller_dark_netflix.jpg/revision/latest/scale-to-width-down/339?cb=20190624155740",
+      "url": "https://dark-netflix.fandom.com//wiki/Torben_W%C3%B6ller"
+    },
     "world": "adam"
   },
   {
     "name": "Tronte Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/38/Profile_-_Tronte_2019.JPG/revision/latest/scale-to-width-down/350?cb=20180101130644",
+    "slug": "tronteNielsen2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Tronte_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/3/38/Profile_-_Tronte_2019.JPG/revision/latest/scale-to-width-down/350?cb=20180101130644",
+      "url": "https://dark-netflix.fandom.com//wiki/Tronte_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Tronte Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d1/Profile_-_Tronte_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101131029",
+    "slug": "tronteNielsen1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Tronte_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/d/d1/Profile_-_Tronte_1986.JPG/revision/latest/scale-to-width-down/350?cb=20180101131029",
+      "url": "https://dark-netflix.fandom.com//wiki/Tronte_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Tronte Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7e/Profile_-_Tronte_1953.jpg/revision/latest?cb=20180101131510",
+    "slug": "tronteNielsen1953Adam",
     "time": "1953",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Tronte_Nielsen",
-    "world": "adam"
-  },
-  {
-    "name": "Udo Meier",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/5/59/1x08_0021_UdoMeier.jpg/revision/latest/scale-to-width-down/350?cb=20190813193035",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Udo_Meier",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/7/7e/Profile_-_Tronte_1953.jpg/revision/latest?cb=20180101131510",
+      "url": "https://dark-netflix.fandom.com//wiki/Tronte_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Ulla Obendorf",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/21/Ulla_Obendorf.png/revision/latest/scale-to-width-down/350?cb=20190724023316",
+    "slug": "ullaObendorfAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ulla_Obendorf",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/21/Ulla_Obendorf.png/revision/latest/scale-to-width-down/350?cb=20190724023316",
+      "url": "https://dark-netflix.fandom.com//wiki/Ulla_Obendorf"
+    },
     "world": "adam"
   },
   {
     "name": "Ulrich Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c6/Profile_-_Ulrich_2019.jpg/revision/latest/scale-to-width-down/350?cb=20171226151948",
+    "slug": "ulrichNielsen2019Adam",
     "time": "2019",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ulrich_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c6/Profile_-_Ulrich_2019.jpg/revision/latest/scale-to-width-down/350?cb=20171226151948",
+      "url": "https://dark-netflix.fandom.com//wiki/Ulrich_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Ulrich Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b3/Profile_-_Ulrich_1986.jpg/revision/latest/scale-to-width-down/350?cb=20171226151947",
+    "slug": "ulrichNielsen1986Adam",
     "time": "1986",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ulrich_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b3/Profile_-_Ulrich_1986.jpg/revision/latest/scale-to-width-down/350?cb=20171226151947",
+      "url": "https://dark-netflix.fandom.com//wiki/Ulrich_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Ulrich Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c8/Profile_-_Ulrich_1987.png/revision/latest/scale-to-width-down/350?cb=20190623164841",
+    "slug": "ulrichNielsen1987ElderSelfAdam",
     "time": "1987 (Elder self)",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ulrich_Nielsen",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/c/c8/Profile_-_Ulrich_1987.png/revision/latest/scale-to-width-down/350?cb=20190623164841",
+      "url": "https://dark-netflix.fandom.com//wiki/Ulrich_Nielsen"
+    },
     "world": "adam"
   },
   {
     "name": "Yasin Friese",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/4e/Yasin_friese.png/revision/latest/scale-to-width-down/341?cb=20180114153654",
+    "slug": "yasinFrieseAdam",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Yasin_Friese",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/4e/Yasin_friese.png/revision/latest/scale-to-width-down/341?cb=20180114153654",
+      "url": "https://dark-netflix.fandom.com//wiki/Yasin_Friese"
+    },
     "world": "adam"
   },
   {
     "name": "Regina Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b4/3x01-_0047_55ReginaGrave.jpg/revision/latest/scale-to-width-down/350?cb=20200703045042",
+    "slug": "reginaTiedemannEva",
     "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann_(Eva%27s_World)",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/b/b4/3x01-_0047_55ReginaGrave.jpg/revision/latest/scale-to-width-down/350?cb=20200703045042",
+      "url": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann_(Eva%27s_World)"
+    },
     "world": "eva"
   },
   {
     "name": "Martha Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/29/Martha_Nielsen_from_ar.png/revision/latest/scale-to-width-down/304?cb=20190625025511",
+    "slug": "marthaNielsenYoungEva",
     "time": "Young",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/2/29/Martha_Nielsen_from_ar.png/revision/latest/scale-to-width-down/304?cb=20190625025511",
+      "url": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)"
+    },
     "world": "eva"
   },
   {
     "name": "Martha Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0f/FemaleStranger.png/revision/latest/scale-to-width-down/350?cb=20200629175657",
+    "slug": "marthaNielsenAdultEva",
     "time": "Adult",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/0/0f/FemaleStranger.png/revision/latest/scale-to-width-down/350?cb=20200629175657",
+      "url": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)"
+    },
     "world": "eva"
   },
   {
     "name": "Martha Nielsen",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/64/Eve.png/revision/latest/scale-to-width-down/350?cb=20200629175611",
+    "slug": "marthaNielsenElderEva",
     "time": "Elder",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
-    "world": "eva"
-  },
-  {
-    "name": "Claudia Tiedemann",
-    "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/4/42/Alternate_Claudia.jpg/revision/latest?cb=20200701233156",
-    "time": "",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann_(Eva%27s_World)",
+    "wiki": {
+      "picture": "https://vignette.wikia.nocookie.net/dark-netflix/images/6/64/Eve.png/revision/latest/scale-to-width-down/350?cb=20200629175611",
+      "url": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)"
+    },
     "world": "eva"
   }
 ]

@@ -1,26 +1,28 @@
 {
+  "dependencies": {
+    "norska": "0.15.1"
+  },
   "devDependencies": {
     "aberlaas": "1.12.2",
     "firost": "1.11.2",
     "golgoth": "1.3.2"
   },
-  "files": [
-    "lib/*.js"
-  ],
+  "files": [],
   "license": "MIT",
   "main": "lib/main.js",
   "name": "dark",
   "scripts": {
+    "build": "./scripts/build",
+    "build:prod": "./scripts/build-prod",
     "ci": "./scripts/ci",
+    "cms": "./scripts/cms",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
     "lint:fix": "./scripts/lint-fix",
     "release": "./scripts/release",
+    "serve": "./scripts/serve",
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.1",
-  "dependencies": {
-    "norska": "0.15.1"
-  }
+  "version": "0.0.1"
 }

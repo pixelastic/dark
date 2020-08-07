@@ -1,53 +1,38 @@
 const pMap = require('golgoth/lib/pMap');
-const read = require('firost/lib/read');
-const urlToFilepath = require('firost/lib/urlToFilepath');
-const exists = require('firost/lib/exists');
-const download = require('firost/lib/download');
-const run = require('firost/lib/run');
+// const read = require('firost/lib/read');
+// const urlToFilepath = require('firost/lib/urlToFilepath');
+// const exists = require('firost/lib/exists');
+// const download = require('firost/lib/download');
+// const run = require('firost/lib/run');
 const writeJson = require('firost/lib/writeJson');
+const readJson = require('firost/lib/readJson');
 const _ = require('golgoth/lib/lodash');
 
-const hx = async (filepath, selector, attribute) => {
-  const command = `hx "${filepath}" "${selector}" "${attribute}"`;
-  const { stdout } = await run(command, {
-    shell: true,
-    stdout: false,
-  });
-  return stdout;
-};
-
 (async () => {
-  const worlds = ['adam', 'eva', 'original'];
-  const characters = [];
-  await pMap(worlds, async (world) => {
-    const urls = await read(`./tmp/${world}.txt`);
-    await pMap(urls.split('\n'), async (url) => {
-      const fullUrl = `https://dark-netflix.fandom.com/${url}`;
-      const localFile = './tmp/cache/' + urlToFilepath(fullUrl);
-      if (!(await exists(localFile))) {
-        await download(fullUrl, localFile);
-      }
+  const characters = await readJson('./lib/data.json');
+  const newData = [];
+  await pMap(characters, async (character) => {
+    const { wikiUrl, name, world, time, picture } = character;
+    const slug = _.camelCase(`${name}-${time}-${world}`);
 
-      const title = await hx(localFile, 'meta[name=twitter:title]', 'content');
-      const name = title.replace(' | Dark Wiki | Fandom', '');
+    // const picturePath = `./src/assets/pictures/${slug}.png`;
+    // if (!(await exists(picturePath))) {
+    //   await download(picture, picturePath);
+    // }
 
-      // Get images
-      const imgs = JSON.parse(await hx(localFile, '.pi-image-thumbnail', ''));
+    const newCharacter = {
+      name,
+      wiki: {
+        picture,
+        url: wikiUrl,
+      },
+      time,
+      world,
+      slug,
+    };
 
-      _.each(_.castArray(imgs), (img) => {
-        const time = img.alt;
-        const picture = img.src;
-        characters.push({
-          name,
-          world,
-          time,
-          picture,
-          wikiUrl: fullUrl,
-        });
-      });
-    });
+    newData.push(newCharacter);
   });
 
-  const dataPath = './lib/data.json';
-  await writeJson(characters, dataPath);
+  await writeJson(newData, './src/_data/characters.json');
 })();

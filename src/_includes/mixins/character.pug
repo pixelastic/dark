@@ -1,0 +1,9 @@
+mixin character(data)
+  - const color = data.world === 'adam' ? 'bg-yellow-1' : 'bg-red-1';
+  .p-1.border-001.border-gray.rounded.bg-white.w-50vw.h-100vh
+    .relative.h-100p
+      +img.w-100p.h-100p.object-cover.rounded(src=data.wiki.picture)
+      a.absolute.bottom-0.left-0.right-0.p-1.bg-opacity-75p(href=data.wiki.url class=color)
+        .flex.flex-row.justify-center.items-center
+          .text-7.gill.bold.gray-8=`${data.firstName} ${_.upperCase(data.lastName)}`
+      //- .text-2=data.time

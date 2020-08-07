@@ -1,0 +1,13 @@
+/**
+ * Use the file as a template to define your own fonts
+ **/
+@font-face {
+  font-family: 'GillSansLight';
+  src: url('./assets/fonts/gillSansLight.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.gill {
+  font-family: 'GillSansLight', serif;
+}

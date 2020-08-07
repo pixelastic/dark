@@ -1,0 +1,17 @@
+{
+  "type": "list",
+  "displayKey": "name",
+  "itemSchema": [
+    { "name": "firstName", "type": "text" },
+    { "name": "lastName", "type": "text" },
+    { "name": "world", "type": "text" },
+    { "name": "year", "type": "text" },
+    { "name": "wikiUrl", "type": "text" },
+    {
+      "name": "picture",
+      "type": "upload",
+      "uploadDirectory": "assets/pictures",
+      "uploadBasename": "{lastName}-{firstName}-{world}-{year}"
+    }
+  ]
+}

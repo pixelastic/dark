@@ -10,3 +10,6 @@ The `lib/data.json` file contains a list of characters with the following keys:
 `name`, `world`, `time` and `slug`. The `slug` and `world` keys can be used to infer the picture
 in the `./src/assets/pictures/{world}/{slug}` folder.
 
+
+https://twitter.com/eleopocket/status/1206334946383712258
+
