@@ -1,10 +1,5 @@
 extends /_includes/layouts/core
 
-block meta
-  - meta.title = "Dark Characters"
-  - meta.description = "The Netflix show Dark is amazing, but with so many characters, it can get pretty tough to make sense of what going. So I gathered all the data in order to turn it into a website."
-  //- see also: meta.twitter, meta.image and meta.url
-
 block content
   each byYear, year in _.groupBy(data.characters, 'year')
     .text-7.white=year

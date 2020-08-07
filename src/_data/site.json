@@ -1,7 +1,7 @@
 {
-  "defaultDescription": "Your website description. You can overwrite it in any pug file",
-  "defaultTitle": "Default page title. You can overwrite it in any pug file",
-  "defaultUrl": "http://www.your-production-url.com/",
-  "defaultAuthor": "Your Name",
-  "defaultTwitter": "yourusername"
+  "defaultDescription": "The Netflix show Dark is amazing, but with so many characters, it can get pretty tough to make sense of what going. So I gathered all the data in order to turn it into a website.",
+  "defaultTitle": "Dark characters",
+  "defaultUrl": "https://projects.pixelastic.com/dark/",
+  "defaultAuthor": "Tim Carry",
+  "defaultTwitter": "pixelastic"
 }
