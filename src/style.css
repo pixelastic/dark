@@ -6,3 +6,10 @@
 @import 'tailwindcss/utilities';
 
 @import '_styles/fonts.css';
+
+.w-card {
+  width: 4in;
+}
+.h-card {
+  height: 7in;
+}

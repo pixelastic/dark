@@ -1,15 +1,24 @@
 extends /_includes/layouts/core
 
 block meta
-  - meta.title = "Custom title"
-  - meta.description = "Custom description"
+  - meta.title = "Dark Characters"
+  - meta.description = "The Netflix show Dark is amazing, but with so many characters, it can get pretty tough to make sense of what going. So I gathered all the data in order to turn it into a website."
   //- see also: meta.twitter, meta.image and meta.url
 
 block content
-  .flex.flex-row.flex-wrap
-    each character in data.list.adam
-      .flex-none.w-50p.flex.flex-row.justify-center.p-1
-        +character(character)
-    each character in data.list.eva
-      .flex-none.w-50p.flex.flex-row.justify-center.p-1
-        +character(character)
+  each byYear, year in _.groupBy(data.characters, 'year')
+    .text-7.white=year
+    each byFamily, familyName in _.groupBy(byYear, 'lastName')
+      //- .text-7.white=`${familyName} Family`
+      .flex.flex-wrap
+        each character in byFamily
+          .flex-none.p-1
+            +character(character)
+
+  //- each byFamily, familyName in _.groupBy(data.characters, 'lastName')
+  //-   .text-7.white=`${familyName} Family`
+  //-   each byFirstName, firstName in _.groupBy(byFamily, 'firstName')
+  //-     .flex.flex-wrap
+  //-       each character in _.sortBy(byFirstName, ['world', 'year'])
+  //-         .flex-none.p-1
+  //-           +character(character)

@@ -1,32 +1,40 @@
 [
   {
+    "firstName": "The Unnamed",
+    "lastName": "",
+    "picture": "assets/pictures/-theUnnamed-adam-nA.jpg",
+    "wikiUrl": "",
+    "world": "adam",
+    "year": "N/A"
+  },
+  {
     "firstName": "Agnes",
     "lastName": "Nielsen",
     "picture": "assets/pictures/nielsenAgnesAdam1954.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Agnes_Nielsen",
     "world": "adam",
-    "year": "1954"
+    "year": "1953"
   },
   {
     "firstName": "Agnes",
-    "lastName": "Nielsen",
+    "lastName": "Tauber",
     "picture": "assets/pictures/nielsenAgnesAdam1921.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Agnes_Nielsen",
     "world": "adam",
-    "year": "1921"
+    "year": "1920"
   },
   {
     "firstName": "Aleksander",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannAleksanderAdam2019.png",
+    "picture": "assets/pictures/tiedemann-aleksander-adam-2019.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Aleksander_Tiedemann",
     "world": "adam",
     "year": "2019"
   },
   {
     "firstName": "Aleksander",
-    "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannAleksanderAdam1986.png",
+    "lastName": "Köhler",
+    "picture": "assets/pictures/tiedemann-aleksander-adam-1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Aleksander_Tiedemann",
     "world": "adam",
     "year": "1986"
@@ -40,41 +48,9 @@
     "year": "2019"
   },
   {
-    "firstName": "Bartosz",
-    "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannBartoszAdam1904.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann",
-    "world": "adam",
-    "year": "1904"
-  },
-  {
-    "firstName": "Bartosz",
-    "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannBartoszAdam1921.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bartosz_Tiedemann",
-    "world": "adam",
-    "year": "1921"
-  },
-  {
-    "firstName": "Bernadette",
-    "lastName": "Wöller",
-    "picture": "assets/pictures/wollerBernadetteAdam2019.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernadette_W%C3%B6ller",
-    "world": "adam",
-    "year": "2019"
-  },
-  {
-    "firstName": "Bernadette",
-    "lastName": "Wöller",
-    "picture": "assets/pictures/wollerBernadetteOriginal2019.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernadette_W%C3%B6ller",
-    "world": "original",
-    "year": "2019"
-  },
-  {
     "firstName": "Bernd",
     "lastName": "Doppler",
-    "picture": "assets/pictures/dopplerBerndAdam1986.png",
+    "picture": "assets/pictures/doppler-bernd-adam-1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernd_Doppler",
     "world": "adam",
     "year": "1986"
@@ -82,7 +58,7 @@
   {
     "firstName": "Bernd",
     "lastName": "Doppler",
-    "picture": "assets/pictures/dopplerBerndAdam1953.png",
+    "picture": "assets/pictures/doppler-bernd-adam-1953.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Bernd_Doppler",
     "world": "adam",
     "year": "1953"
@@ -97,7 +73,7 @@
   },
   {
     "firstName": "Charlotte",
-    "lastName": "Doppler",
+    "lastName": "Tannhaus",
     "picture": "assets/pictures/dopplerCharlotteAdam1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Charlotte_Doppler",
     "world": "adam",
@@ -106,7 +82,7 @@
   {
     "firstName": "Claudia",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannClaudiaAdam2019.png",
+    "picture": "assets/pictures/tiedemann-claudia-adam-2019.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann",
     "world": "adam",
     "year": "2019"
@@ -114,7 +90,7 @@
   {
     "firstName": "Claudia",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannClaudiaAdam1986.png",
+    "picture": "assets/pictures/tiedemann-claudia-adam-1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann",
     "world": "adam",
     "year": "1986"
@@ -122,31 +98,23 @@
   {
     "firstName": "Claudia",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannClaudiaAdam1953.png",
+    "picture": "assets/pictures/tiedemann-claudia-adam-1953.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Claudia_Tiedemann",
     "world": "adam",
     "year": "1953"
   },
   {
-    "firstName": "Daniel",
-    "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldDanielAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Daniel_Kahnwald",
-    "world": "adam",
-    "year": ""
-  },
-  {
     "firstName": "Doris",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannDorisAdam.png",
+    "picture": "assets/pictures/tiedemann-doris-adam-.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Doris_Tiedemann",
     "world": "adam",
-    "year": ""
+    "year": "1953"
   },
   {
     "firstName": "Egon",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannEgonAdam1986.png",
+    "picture": "assets/pictures/tiedemann-egon-adam-1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Egon_Tiedemann",
     "world": "adam",
     "year": "1986"
@@ -154,7 +122,7 @@
   {
     "firstName": "Egon",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannEgonAdam1953.png",
+    "picture": "assets/pictures/tiedemann-egon-adam-1953.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Egon_Tiedemann",
     "world": "adam",
     "year": "1953"
@@ -173,20 +141,12 @@
     "picture": "assets/pictures/dopplerElisabethAdam2053.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Elisabeth_Doppler",
     "world": "adam",
-    "year": "2053"
-  },
-  {
-    "firstName": "Erik",
-    "lastName": "Obendorf",
-    "picture": "assets/pictures/obendorfErikAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Erik_Obendorf",
-    "world": "adam",
-    "year": ""
+    "year": "2052"
   },
   {
     "firstName": "Franziska",
     "lastName": "Doppler",
-    "picture": "assets/pictures/dopplerFranziskaAdam2019.png",
+    "picture": "assets/pictures/doppler-franziska-adam-2019.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Franziska_Doppler",
     "world": "adam",
     "year": "2019"
@@ -197,7 +157,7 @@
     "picture": "assets/pictures/dopplerFranziskaAdam1921.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Franziska_Doppler",
     "world": "adam",
-    "year": "1921"
+    "year": "1920"
   },
   {
     "firstName": "Greta",
@@ -205,62 +165,31 @@
     "picture": "assets/pictures/dopplerGretaAdam.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Greta_Doppler",
     "world": "adam",
-    "year": ""
-  },
-  {
-    "firstName": "Gretchen",
-    "picture": "assets/pictures/undefinedGretchenAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Gretchen",
-    "world": "adam",
-    "year": ""
-  },
-  {
-    "firstName": "Gustav",
-    "lastName": "Tannhaus",
-    "picture": "assets/pictures/tannhausGustavAdam1888.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Gustav_Tannhaus",
-    "world": "adam",
-    "year": "1888"
-  },
-  {
-    "firstName": "Gustav",
-    "lastName": "Tannhaus",
-    "picture": "assets/pictures/tannhausGustavAdam1822.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Gustav_Tannhaus",
-    "world": "adam",
-    "year": "1822"
+    "year": "1953"
   },
   {
     "firstName": "Hannah",
     "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldHannahAdamAdult.png",
+    "picture": "assets/pictures/kahnwald-hannah-adam-2019.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hannah_Kahnwald",
     "world": "adam",
-    "year": "Adult"
+    "year": "2019"
   },
   {
     "firstName": "Hannah",
-    "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldHannahAdamYoung.png",
+    "lastName": "Krüger",
+    "picture": "assets/pictures/kahnwald-hannah-adam-1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hannah_Kahnwald",
     "world": "adam",
-    "year": "Young"
+    "year": "1986"
   },
   {
-    "firstName": "Hannah",
-    "lastName": "Nielsen",
-    "picture": "assets/pictures/nielsenHannahAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hannah_Nielsen",
-    "world": "adam",
-    "year": ""
-  },
-  {
-    "firstName": "Hanno",
-    "lastName": "Tauber",
+    "firstName": "Noah",
+    "lastName": "",
     "picture": "assets/pictures/tauberHannoAdamAdult.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber",
     "world": "adam",
-    "year": "Adult"
+    "year": "N/A"
   },
   {
     "firstName": "Hanno",
@@ -268,15 +197,7 @@
     "picture": "assets/pictures/tauberHannoAdamYouth.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber",
     "world": "adam",
-    "year": "Youth"
-  },
-  {
-    "firstName": "Hanno",
-    "lastName": "Tauber",
-    "picture": "assets/pictures/tauberHannoAdamKid.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Hanno_Tauber",
-    "world": "adam",
-    "year": "Kid"
+    "year": "1920"
   },
   {
     "firstName": "Helene",
@@ -284,7 +205,7 @@
     "picture": "assets/pictures/albersHeleneAdam1987.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Helene_Albers",
     "world": "adam",
-    "year": "1987"
+    "year": "1986"
   },
   {
     "firstName": "Helene",
@@ -292,7 +213,7 @@
     "picture": "assets/pictures/albersHeleneAdam1954.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Helene_Albers",
     "world": "adam",
-    "year": "1954"
+    "year": "1953"
   },
   {
     "firstName": "Helge",
@@ -319,52 +240,44 @@
     "year": "1953"
   },
   {
-    "firstName": "H",
-    "lastName": "G",
+    "firstName": "H.G.",
+    "lastName": "Tannhaus",
     "picture": "assets/pictures/gHAdam1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus",
     "world": "adam",
     "year": "1986"
   },
   {
-    "firstName": "H",
-    "lastName": "G",
+    "firstName": "H.G.",
+    "lastName": "Tannhaus",
     "picture": "assets/pictures/gHAdam1953.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus",
     "world": "adam",
     "year": "1953"
   },
   {
-    "firstName": "H",
-    "lastName": "G",
-    "picture": "assets/pictures/gHAdam1971.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/H.G._Tannhaus",
+    "firstName": "Ines",
+    "lastName": "Kahnwald",
+    "picture": "assets/pictures/kahnwald-ines-adam-old.png",
+    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald",
     "world": "adam",
-    "year": "1971"
+    "year": "2019"
   },
   {
     "firstName": "Ines",
     "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldInesAdamOld.png",
+    "picture": "assets/pictures/kahnwald-ines-adam-adult.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald",
     "world": "adam",
-    "year": "Old"
+    "year": "1986"
   },
   {
     "firstName": "Ines",
     "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldInesAdamAdult.png",
+    "picture": "assets/pictures/kahnwald-ines-adam-young.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald",
     "world": "adam",
-    "year": "Adult"
-  },
-  {
-    "firstName": "Ines",
-    "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldInesAdamYoung.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ines_Kahnwald",
-    "world": "adam",
-    "year": "Young"
+    "year": "1953"
   },
   {
     "firstName": "Jana",
@@ -384,7 +297,7 @@
   },
   {
     "firstName": "Jana",
-    "lastName": "Nielsen",
+    "lastName": "????",
     "picture": "assets/pictures/nielsenJanaAdam1953.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jana_Nielsen",
     "world": "adam",
@@ -393,42 +306,26 @@
   {
     "firstName": "Jonas",
     "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldJonasAdamYoung.png",
+    "picture": "assets/pictures/kahnwald-jonas-adam-2019.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
     "world": "adam",
-    "year": "Young"
+    "year": "N/A"
   },
   {
     "firstName": "Jonas",
     "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldJonasAdamAdult.png",
+    "picture": "assets/pictures/kahnwald-jonas-adam-future.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
     "world": "adam",
-    "year": "Adult"
+    "year": "N/A"
   },
   {
     "firstName": "Jonas",
     "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldJonasAdamMature.png",
+    "picture": "assets/pictures/kahnwald-jonas-adam-adam.jpg",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
     "world": "adam",
-    "year": "Mature"
-  },
-  {
-    "firstName": "Jonas",
-    "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldJonasAdamOld.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
-    "world": "adam",
-    "year": "Old"
-  },
-  {
-    "firstName": "Jürgen",
-    "lastName": "Obendorf",
-    "picture": "assets/pictures/obendorfJurgenAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/J%C3%BCrgen_Obendorf",
-    "world": "adam",
-    "year": ""
+    "year": "N/A"
   },
   {
     "firstName": "Katharina",
@@ -440,19 +337,11 @@
   },
   {
     "firstName": "Katharina",
-    "lastName": "Nielsen",
-    "picture": "assets/pictures/nielsenKatharinaAdam1986.png",
+    "lastName": "Albers",
+    "picture": "assets/pictures/nielsen-katharina-adam-1986.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Katharina_Nielsen",
     "world": "adam",
     "year": "1986"
-  },
-  {
-    "firstName": "Kilian",
-    "lastName": "Obendorf",
-    "picture": "assets/pictures/obendorfKilianAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Kilian_Obendorf",
-    "world": "adam",
-    "year": ""
   },
   {
     "firstName": "Mads",
@@ -460,7 +349,7 @@
     "picture": "assets/pictures/nielsenMadsAdam.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Mads_Nielsen",
     "world": "adam",
-    "year": ""
+    "year": "1986"
   },
   {
     "firstName": "Magnus",
@@ -476,15 +365,7 @@
     "picture": "assets/pictures/nielsenMagnusAdam1921.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Magnus_Nielsen",
     "world": "adam",
-    "year": "1921"
-  },
-  {
-    "firstName": "Marek",
-    "lastName": "Tannhaus",
-    "picture": "assets/pictures/tannhausMarekAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Marek_Tannhaus",
-    "world": "adam",
-    "year": ""
+    "year": "1920"
   },
   {
     "firstName": "Martha",
@@ -497,18 +378,18 @@
   {
     "firstName": "Michael",
     "lastName": "Kahnwald",
-    "picture": "assets/pictures/kahnwaldMichaelAdamAdult.png",
+    "picture": "assets/pictures/kahnwald-michael-adam-adult.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Michael_Kahnwald",
     "world": "adam",
-    "year": "Adult"
+    "year": "2019"
   },
   {
     "firstName": "Mikkel",
     "lastName": "Nielsen",
-    "picture": "assets/pictures/nielsenMikkelAdamYoung.png",
+    "picture": "assets/pictures/nielsen-mikkel-adam-young.jpg",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Mikkel_Nielsen",
     "world": "adam",
-    "year": "Young"
+    "year": "2019"
   },
   {
     "firstName": "Peter",
@@ -524,12 +405,12 @@
     "picture": "assets/pictures/dopplerPeterAdam1987.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Peter_Doppler",
     "world": "adam",
-    "year": "1987"
+    "year": "1986"
   },
   {
     "firstName": "Regina",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannReginaAdam2019.png",
+    "picture": "assets/pictures/tiedemann-regina-adam-2019.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann",
     "world": "adam",
     "year": "2019"
@@ -537,7 +418,7 @@
   {
     "firstName": "Regina",
     "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannReginaAdam1986.png",
+    "picture": "assets/pictures/tiedemann-regina-adam-1986.jpg",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann",
     "world": "adam",
     "year": "1986"
@@ -548,7 +429,7 @@
     "picture": "assets/pictures/krugerSebastianAdam.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Sebastian_Kr%C3%BCger",
     "world": "adam",
-    "year": ""
+    "year": "1986"
   },
   {
     "firstName": "Silja",
@@ -556,39 +437,7 @@
     "picture": "assets/pictures/tiedemannSiljaAdam.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Silja_Tiedemann",
     "world": "adam",
-    "year": ""
-  },
-  {
-    "firstName": "The",
-    "lastName": "Unknown",
-    "picture": "assets/pictures/unknownTheAdamYoung.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_Unknown",
-    "world": "adam",
-    "year": "Young"
-  },
-  {
-    "firstName": "The",
-    "lastName": "Unknown",
-    "picture": "assets/pictures/unknownTheAdamAdult.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_Unknown",
-    "world": "adam",
-    "year": "Adult"
-  },
-  {
-    "firstName": "The",
-    "lastName": "Unknown",
-    "picture": "assets/pictures/unknownTheAdamOld.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/The_Unknown",
-    "world": "adam",
-    "year": "Old"
-  },
-  {
-    "firstName": "Torben",
-    "lastName": "Wöller",
-    "picture": "assets/pictures/wollerTorbenAdam2019.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Torben_W%C3%B6ller",
-    "world": "adam",
-    "year": "2019"
+    "year": "2052"
   },
   {
     "firstName": "Tronte",
@@ -615,14 +464,6 @@
     "year": "1953"
   },
   {
-    "firstName": "Ulla",
-    "lastName": "Obendorf",
-    "picture": "assets/pictures/obendorfUllaAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ulla_Obendorf",
-    "world": "adam",
-    "year": ""
-  },
-  {
     "firstName": "Ulrich",
     "lastName": "Nielsen",
     "picture": "assets/pictures/nielsenUlrichAdam2019.png",
@@ -641,26 +482,10 @@
   {
     "firstName": "Ulrich",
     "lastName": "Nielsen",
-    "picture": "assets/pictures/nielsenUlrichAdam1987ElderSelf.png",
+    "picture": "assets/pictures/nielsen-ulrich-adam-1987.jpg",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Ulrich_Nielsen",
     "world": "adam",
-    "year": "1987 (Elder self)"
-  },
-  {
-    "firstName": "Yasin",
-    "lastName": "Friese",
-    "picture": "assets/pictures/frieseYasinAdam.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Yasin_Friese",
-    "world": "adam",
-    "year": ""
-  },
-  {
-    "firstName": "Regina",
-    "lastName": "Tiedemann",
-    "picture": "assets/pictures/tiedemannReginaEva.png",
-    "wikiUrl": "https://dark-netflix.fandom.com//wiki/Regina_Tiedemann_(Eva%27s_World)",
-    "world": "eva",
-    "year": ""
+    "year": "1986"
   },
   {
     "firstName": "Martha",
@@ -668,7 +493,7 @@
     "picture": "assets/pictures/nielsenMarthaEvaYoung.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
     "world": "eva",
-    "year": "Young"
+    "year": "N/A"
   },
   {
     "firstName": "Martha",
@@ -676,14 +501,14 @@
     "picture": "assets/pictures/nielsenMarthaEvaAdult.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
     "world": "eva",
-    "year": "Adult"
+    "year": "N/A"
   },
   {
     "firstName": "Martha",
     "lastName": "Nielsen",
-    "picture": "assets/pictures/nielsenMarthaEvaElder.png",
+    "picture": "assets/pictures/nielsen-martha-eva-nA.jpg",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
     "world": "eva",
-    "year": "Elder"
+    "year": "N/A"
   }
 ]
