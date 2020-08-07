@@ -9,7 +9,6 @@
   },
   "files": [],
   "license": "MIT",
-  "main": "lib/main.js",
   "name": "dark",
   "scripts": {
     "build": "./scripts/build",
