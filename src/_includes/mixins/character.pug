@@ -1,6 +1,7 @@
 mixin character(data)
   - const yearClasses = data.world === 'adam' ? 'bg-white black' : 'bg-black white '
-  .w-card.h-card
+  - const id = _.camelCase(`${data.year}-${data.lastName}-${data.firstName}`);
+  .__card.w-card.h-card(id=id)
     .relative.h-100p.gill
       +img.w-100p.h-100p.object-cover.rounded(src=data.picture)
       .absolute.top-0.right-0.px-1.py-01.bg-opacity-90p.text-5.rounded-bl(class=yearClasses)=data.year
@@ -9,4 +10,3 @@ mixin character(data)
           .text-5.bold.black
             .inline-block=data.firstName
             .inline-block.uppercase.pl-02=data.lastName
-      //- .text-2=data.time
