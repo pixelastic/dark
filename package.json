@@ -3,6 +3,7 @@
     "norska": "0.15.1"
   },
   "devDependencies": {
+    "@microlink/mql": "0.7.4",
     "aberlaas": "1.12.2",
     "firost": "1.11.2",
     "golgoth": "1.3.2"

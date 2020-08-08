@@ -3,7 +3,7 @@ mixin character(data)
   - const id = _.camelCase(`id-${data.year}-${data.lastName}-${data.firstName}-${data.id}`);
   .__card.w-card.h-card(id=id)
     .relative.h-100p.gill
-      +img.w-100p.h-100p.object-cover.rounded(src=data.picture)
+      img.w-100p.h-100p.object-cover.rounded(src=data.picture)
       .absolute.top-0.right-0.px-1.py-01.bg-opacity-90p.text-5.rounded-bl(class=yearClasses)=data.year
       a.absolute.bottom-0.left-0.right-0.p-1.bg-opacity-75p.bg-white(href=data.wikiUrl)
         .flex.flex-row.justify-center.items-center

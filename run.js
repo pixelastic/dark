@@ -1,33 +1,27 @@
-const pMap = require('golgoth/lib/pMap');
-// const read = require('firost/lib/read');
-// const urlToFilepath = require('firost/lib/urlToFilepath');
-// const exists = require('firost/lib/exists');
+const mql = require('@microlink/mql');
+const read = require('firost/lib/read');
 const download = require('firost/lib/download');
-// const run = require('firost/lib/run');
-// const writeJson = require('firost/lib/writeJson');
-const readJson = require('firost/lib/readJson');
-const _ = require('golgoth/lib/lodash');
+const exists = require('firost/lib/exists');
+const pMap = require('golgoth/lib/pMap');
 
 (async () => {
-  const old = await readJson('./lib/data.json');
+  const ids = (await read('./tmp/ids.txt')).split('\n');
   await pMap(
-    old,
-    async (character) => {
-      const name = character.name;
-      const [firstName, lastName] = _.words(name);
-
-      const world = character.world;
-      const year = character.time;
-
-      const slug = _.camelCase(`${lastName}-${firstName}-${world}-${year}`);
-      const pictureUrl = character.wiki.picture.replace(
-        'scale-to-width-down/350',
-        ''
-      );
-      const picturePath = `assets/pictures/${slug}.png`;
-      console.info(name);
-      await download(pictureUrl, `src/${picturePath}`);
+    [ids[12]],
+    async (id) => {
+      console.info(id);
+      const { data } = await mql('https://projects.pixelastic.com/dark/', {
+        screenshot: true,
+        waitUntil: 'load',
+        element: `#${id}`,
+      });
+      const url = data.screenshot.url;
+      console.info(data.screenshot);
+      const card = `./cards/${id}.png`;
+      if (!(await exists(card))) {
+        await download(url, card);
+      }
     },
-    { concurrency: 1 }
+    { concurrency: 2 }
   );
 })();
