@@ -309,7 +309,8 @@
     "picture": "assets/pictures/kahnwald-jonas-adam-2019.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
     "world": "adam",
-    "year": "N/A"
+    "year": "N/A",
+    "id": "young"
   },
   {
     "firstName": "Jonas",
@@ -317,7 +318,8 @@
     "picture": "assets/pictures/kahnwald-jonas-adam-future.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
     "world": "adam",
-    "year": "N/A"
+    "year": "N/A",
+    "id": "adult"
   },
   {
     "firstName": "Jonas",
@@ -325,7 +327,8 @@
     "picture": "assets/pictures/kahnwald-jonas-adam-adam.jpg",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Jonas_Kahnwald",
     "world": "adam",
-    "year": "N/A"
+    "year": "N/A",
+    "id": "old"
   },
   {
     "firstName": "Katharina",
@@ -493,7 +496,8 @@
     "picture": "assets/pictures/nielsenMarthaEvaYoung.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
     "world": "eva",
-    "year": "N/A"
+    "year": "N/A",
+    "id": "young"
   },
   {
     "firstName": "Martha",
@@ -501,7 +505,8 @@
     "picture": "assets/pictures/nielsenMarthaEvaAdult.png",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
     "world": "eva",
-    "year": "N/A"
+    "year": "N/A",
+    "id": "adult"
   },
   {
     "firstName": "Martha",
@@ -509,6 +514,7 @@
     "picture": "assets/pictures/nielsen-martha-eva-nA.jpg",
     "wikiUrl": "https://dark-netflix.fandom.com//wiki/Martha_Nielsen_(Eva%27s_World)",
     "world": "eva",
-    "year": "N/A"
+    "year": "N/A",
+    "id": "old"
   }
 ]
