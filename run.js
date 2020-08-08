@@ -7,12 +7,14 @@ const pMap = require('golgoth/lib/pMap');
 (async () => {
   const ids = (await read('./tmp/ids.txt')).split('\n');
   await pMap(
-    [ids[12]],
+    [ids[11]],
     async (id) => {
       console.info(id);
       const { data } = await mql('https://projects.pixelastic.com/dark/', {
         screenshot: true,
-        waitUntil: 'load',
+        prerender: true,
+        force: true,
+        waitUntil: 'networkidle0',
         element: `#${id}`,
       });
       const url = data.screenshot.url;
