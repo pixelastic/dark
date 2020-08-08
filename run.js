@@ -7,7 +7,7 @@ const _ = require('golgoth/lib/lodash');
 
 (async () => {
   await pMap(
-    [characters[6]],
+    characters,
     async (character) => {
       const id = _.camelCase(
         `${character.year}-${character.lastName}-${character.firstName}-${character.id}`
@@ -16,9 +16,10 @@ const _ = require('golgoth/lib/lodash');
       console.info(cardUrl);
       try {
         const { data } = await mql(cardUrl, {
+          apiKey: process.env.MICROLINK_API_KEY,
           screenshot: true,
           force: true,
-          waitUntil: 'networkidle1',
+          waitUntil: 'load',
           element: '.__card',
         });
         console.info(data.screenshot);
