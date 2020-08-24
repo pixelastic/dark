@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "norska": "0.15.1"
+    "norska": "0.15.1",
+    "golgoth": "1.4.0"
   },
   "devDependencies": {
     "@microlink/mql": "0.7.4",
     "aberlaas": "1.12.2",
-    "firost": "1.12.0",
-    "golgoth": "1.4.0"
+    "firost": "1.12.0"
   },
   "files": [],
   "license": "MIT",
