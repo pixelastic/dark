@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "norska": "0.15.1",
+    "norska": "0.16.0",
     "golgoth": "1.4.0"
   },
   "devDependencies": {
