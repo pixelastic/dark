@@ -1,10 +1,10 @@
 const pMap = require('golgoth/lib/pMap');
-const read = require('firost/lib/read');
-const urlToFilepath = require('firost/lib/urlToFilepath');
-const exists = require('firost/lib/exists');
-const download = require('firost/lib/download');
-const run = require('firost/lib/run');
-const writeJson = require('firost/lib/writeJson');
+const read = require('firost/read');
+const urlToFilepath = require('firost/urlToFilepath');
+const exists = require('firost/exists');
+const download = require('firost/download');
+const run = require('firost/run');
+const writeJson = require('firost/writeJson');
 const _ = require('golgoth/lib/lodash');
 
 const hx = async (filepath, selector, attribute) => {
