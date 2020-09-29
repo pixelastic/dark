@@ -1,5 +1,3 @@
-extends /_includes/layouts/core
-
 block content
   each byYear, year in _.groupBy(data.characters, 'year')
     .text-7.white=year
