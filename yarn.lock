@@ -1331,10 +1331,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@microlink/mql@0.7.11":
-  version "0.7.11"
-  resolved "https://registry.yarnpkg.com/@microlink/mql/-/mql-0.7.11.tgz#b3d24a8d09d92e5d36ab9686da9674c5ea4eaa7c"
-  integrity sha512-logpTOxZS+favgD+VWldAWngr2mrvbvKFBmPSgnjrqEBxFrYwDiTrlpQpN1w7MJTwf/MsWLa1AK5HW0G80LOcg==
+"@microlink/mql@0.7.13":
+  version "0.7.13"
+  resolved "https://registry.yarnpkg.com/@microlink/mql/-/mql-0.7.13.tgz#8d61b27528467b05f1c37153f0ee7af70e568ef7"
+  integrity sha512-JhKr42fzzcb6csZnY4wHwSho3OkFdzV/sEHbbm4Wg77BzgW7vBnDnn1FOL/NR04ufMcpKpd74hmMeDSxAayTmg==
   dependencies:
     flattie "~1.1.0"
     got "~11.7.0"
