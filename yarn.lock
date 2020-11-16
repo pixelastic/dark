@@ -1331,15 +1331,15 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@microlink/mql@0.7.15":
-  version "0.7.15"
-  resolved "https://registry.yarnpkg.com/@microlink/mql/-/mql-0.7.15.tgz#ad0be813147f829f5e2f3fa00ccb3d374f40218c"
-  integrity sha512-6W1/ZpZ/nO7uIe3pZF2CLT/giFft0ebI+jGlhWv3h7J8ksWmI/zKEjWsFvkRP77pNVYj/8dIA88l3Cpvo8cKdw==
+"@microlink/mql@0.7.16":
+  version "0.7.16"
+  resolved "https://registry.yarnpkg.com/@microlink/mql/-/mql-0.7.16.tgz#0ae41ef6a0373ca3aa3a645947eb7d1bfa0a51d8"
+  integrity sha512-1gFYCXG7Xd6tqabJ/eRx/fHG/DJp4H/m5/1n5Id5w5YH5OqsGbQFCFmOHRcJdZuGuvcC7mb6jhqU8EBjrYw85Q==
   dependencies:
     flattie "~1.1.0"
     got "~11.8.0"
     is-url-http "~2.2.1"
-    ky "~0.24.0"
+    ky "~0.25.0"
     ky-universal "~0.8.2"
     qss "~2.0.3"
     whoops "~4.1.0"
@@ -8472,10 +8472,10 @@ ky-universal@~0.8.2:
     abort-controller "^3.0.0"
     node-fetch "3.0.0-beta.9"
 
-ky@~0.24.0:
-  version "0.24.0"
-  resolved "https://registry.yarnpkg.com/ky/-/ky-0.24.0.tgz#337e534a7f47c12476988eef3cb968daef318349"
-  integrity sha512-/vpuQguwV30jErrqLpoaU/YJAFALrUkqqWLILnSoBOj5/O/LKzro/pPNtxbLgY6m4w5XNM6YZ3v7/or8qLlFuw==
+ky@~0.25.0:
+  version "0.25.0"
+  resolved "https://registry.yarnpkg.com/ky/-/ky-0.25.0.tgz#a0f377cb2eac05f7e8f7c9c7796f2d991656a917"
+  integrity sha512-K1Rdvz2z9ihm9iasWK3iywtrOqIFdJJ09nR6PaQ5cO7NA6MIS7RhzGn9qd206FvWf5yJIZmy0Vzaz70lhU+8ow==
 
 lambda-local@^1.7.1:
   version "1.7.3"
