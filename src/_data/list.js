@@ -1,5 +1,5 @@
 const characters = require('./characters.json');
-const _ = require('golgoth/lib/lodash');
+const _ = require('golgoth/lodash');
 
 module.exports = async () => {
   const value = _.chain(characters)
