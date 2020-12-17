@@ -1,6 +1,6 @@
 const characters = require('./src/_data/characters.json');
-const _ = require('golgoth/lib/lodash');
-const pMap = require('golgoth/lib/pMap');
+const _ = require('golgoth/lodash');
+const pMap = require('golgoth/pMap');
 
 module.exports = {
   hooks: {

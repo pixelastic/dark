@@ -1,9 +1,9 @@
 const mql = require('@microlink/mql');
 const download = require('firost/download');
 const exists = require('firost/exists');
-const pMap = require('golgoth/lib/pMap');
+const pMap = require('golgoth/pMap');
 const characters = require('./src/_data/characters.json');
-const _ = require('golgoth/lib/lodash');
+const _ = require('golgoth/lodash');
 
 (async () => {
   await pMap(
