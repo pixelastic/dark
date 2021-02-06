@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "golgoth": "2.0.0",
-    "norska": "1.10.0"
+    "norska": "1.11.0"
   },
   "devDependencies": {
     "@microlink/mql": "0.8.1",
-    "aberlaas": "1.14.0",
+    "aberlaas": "1.15.0",
     "firost": "2.7.0"
   },
   "files": [],
