@@ -1330,14 +1330,14 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@microlink/mql@0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@microlink/mql/-/mql-0.8.1.tgz#f7537d5fc34405db3fbdf8e89d70180441b05bbc"
-  integrity sha512-BA1coLfkJzkbvbY5oLr5LfH7TLhe2nT6kXUhEj2osdN7hMctrRNAkGHz0LBcmKNbCxGD5pElnTcxMBr7pzAq3Q==
+"@microlink/mql@0.8.2":
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/@microlink/mql/-/mql-0.8.2.tgz#494219738cf732f64221196b9a5bc02f1799ad92"
+  integrity sha512-g5j3VpWnfKY/BAttnQ/RcATS59nglUnoSCYElbfJGf7win8UxCI/xUg6q4HUwogwxZMOvAYHwEO/111P67GrPg==
   dependencies:
     flattie "~1.1.0"
-    got "~11.8.0"
-    is-url-http "~2.2.2"
+    got "~11.8.1"
+    is-url-http "~2.2.3"
     ky "~0.25.0"
     ky-universal "~0.8.2"
     qss "~2.0.3"
@@ -7092,7 +7092,7 @@ gonzales-pe@^4.2.3, gonzales-pe@^4.3.0:
   dependencies:
     minimist "^1.2.5"
 
-got@11.8.0, got@~11.8.0:
+got@11.8.0:
   version "11.8.0"
   resolved "https://registry.yarnpkg.com/got/-/got-11.8.0.tgz#be0920c3586b07fd94add3b5b27cb28f49e6545f"
   integrity sha512-k9noyoIIY9EejuhaBNLyZ31D5328LeqnyPNXJQb2XlJZcKakLqN5m6O/ikhq/0lw56kUYS54fVm+D1x57YC9oQ==
@@ -7169,6 +7169,23 @@ got@^9.6.0:
     p-cancelable "^1.0.0"
     to-readable-stream "^1.0.0"
     url-parse-lax "^3.0.0"
+
+got@~11.8.1:
+  version "11.8.1"
+  resolved "https://registry.yarnpkg.com/got/-/got-11.8.1.tgz#df04adfaf2e782babb3daabc79139feec2f7e85d"
+  integrity sha512-9aYdZL+6nHmvJwHALLwKSUZ0hMwGaJGYv3hoPLPgnT8BoBXm1SjnZeky+91tfwJaDzun2s4RsBRy48IEYv2q2Q==
+  dependencies:
+    "@sindresorhus/is" "^4.0.0"
+    "@szmarczak/http-timer" "^4.0.5"
+    "@types/cacheable-request" "^6.0.1"
+    "@types/responselike" "^1.0.0"
+    cacheable-lookup "^5.0.3"
+    cacheable-request "^7.0.1"
+    decompress-response "^6.0.0"
+    http2-wrapper "^1.0.0-beta.5.2"
+    lowercase-keys "^2.0.0"
+    p-cancelable "^2.0.0"
+    responselike "^2.0.0"
 
 graceful-fs@^4.1.10, graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.3, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.2, graceful-fs@^4.2.3, graceful-fs@^4.2.4:
   version "4.2.4"
@@ -7863,10 +7880,10 @@ ip-regex@^2.1.0:
   resolved "https://registry.npmjs.org/ip-regex/-/ip-regex-2.1.0.tgz#fa78bf5d2e6913c911ce9f819ee5146bb6d844e9"
   integrity sha1-+ni/XS5pE8kRzp+BnuUUa7bYROk=
 
-ip-regex@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npmjs.org/ip-regex/-/ip-regex-4.1.0.tgz#5ad62f685a14edb421abebc2fff8db94df67b455"
-  integrity sha512-pKnZpbgCTfH/1NLIlOduP/V+WRXzC2MOz3Qo8xmxk8C5GudJLgK5QyLVXOSWy3ParAH7Eemurl3xjv/WXYFvMA==
+ip-regex@^4.3.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/ip-regex/-/ip-regex-4.3.0.tgz#687275ab0f57fa76978ff8f4dddc8a23d5990db5"
+  integrity sha512-B9ZWJxHHOHUhUjCPrMpLD4xEq35bUTClHM1S6CBU5ixQnkZmwipwgc96vAd7AAGM9TGHvJR+Uss+/Ak6UphK+Q==
 
 ipaddr.js@1.9.1:
   version "1.9.1"
@@ -8251,12 +8268,12 @@ is-typedarray@^1.0.0, is-typedarray@~1.0.0:
   resolved "https://registry.npmjs.org/is-typedarray/-/is-typedarray-1.0.0.tgz#e479c80858df0c1b11ddda6940f96011fcda4a9a"
   integrity sha1-5HnICFjfDBsR3dppQPlgEfzaSpo=
 
-is-url-http@~2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/is-url-http/-/is-url-http-2.2.2.tgz#3b862810606534c4f21272c68bac29acbb48deba"
-  integrity sha512-1Z+ampt5PL6Xbrdcc6SqZxbn1Pdpw8v4g1HVPC/JOy0BqiXy+IZ8HTTdM4TTlpQOz7zwn1XqfML6H5HgihOr+A==
+is-url-http@~2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/is-url-http/-/is-url-http-2.2.3.tgz#0e9ac88d1b6fb873f233168fcd2098f9f7a990b0"
+  integrity sha512-/GcPo4TPWnrt248Tujz71UgZa3+75EaGo2J+e2UhTbyx5Du77c03vievbYQxj4ZqXH/wqxr/rN8z/AekR57jIg==
   dependencies:
-    url-regex-safe "~1.0.2"
+    url-regex-safe "~2.0.2"
 
 is-url-superb@5.0.0:
   version "5.0.0"
@@ -12565,7 +12582,7 @@ rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-re2@^1.15.4:
+re2@^1.15.9:
   version "1.15.9"
   resolved "https://registry.yarnpkg.com/re2/-/re2-1.15.9.tgz#9ed16171edcb0bc4f0e239bf55229ff3f26acbe3"
   integrity sha512-AXWEhpMTBdC+3oqbjdU07dk0pBCvxh5vbOMLERL6Y8FYBSGn4vXlLe8cYszn64Yy7H8keVMrgPzoSvOd4mePpg==
@@ -14286,10 +14303,10 @@ timers-browserify@^2.0.4:
   dependencies:
     setimmediate "^1.0.4"
 
-tlds@^1.209.0:
-  version "1.214.0"
-  resolved "https://registry.yarnpkg.com/tlds/-/tlds-1.214.0.tgz#a20191443eec26fd3339a3bd98e87a0b4f3f0d89"
-  integrity sha512-+i48KYsrCkkIZnsj31cTIj9cu5NtFxKo7xlNIB7jg8kXi//b4Ertl5qaHgqFF+y+g0nFwt/k+eph2uUNQJgfwg==
+tlds@^1.217.0:
+  version "1.218.0"
+  resolved "https://registry.yarnpkg.com/tlds/-/tlds-1.218.0.tgz#f31804891c650c136f88cb8ec2f043577b5f5afd"
+  integrity sha512-JpD3eSrYaIFlU/OvtI5WTEK+v5qXZSeUifz4hT2bJsJKx5ykjZvg6i5yXVBJNjoN3XbTCtryc7H5v8B16yHfMg==
 
 tmp-promise@^3.0.2:
   version "3.0.2"
@@ -14836,14 +14853,14 @@ url-parse-lax@^3.0.0:
   dependencies:
     prepend-http "^2.0.0"
 
-url-regex-safe@~1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/url-regex-safe/-/url-regex-safe-1.0.2.tgz#822cbab107d7f4f80342f0f0798acf63cac9fd1d"
-  integrity sha512-t1doIKbYDBRyqXZz7A98AXH/zimKmYapxFjBZwcz3BmqjB921rUPEUokAaShKyenaX3McOM8FbkWLvFvX3Jsyw==
+url-regex-safe@~2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/url-regex-safe/-/url-regex-safe-2.0.2.tgz#41d02bb7c927d57008389f636de0bd850a40fc7c"
+  integrity sha512-n5qtPAWvMLTmgYMCX1195CKV9oJE6SkSa5bVsMrHSFA/hnqila9J1KVf6gF2M66lCWwPDhJyQlX1tEXqtzBOPQ==
   dependencies:
-    ip-regex "^4.1.0"
-    re2 "^1.15.4"
-    tlds "^1.209.0"
+    ip-regex "^4.3.0"
+    re2 "^1.15.9"
+    tlds "^1.217.0"
 
 url-to-options@^1.0.1:
   version "1.0.1"
