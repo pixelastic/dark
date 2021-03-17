@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "golgoth": "2.0.0",
-    "norska": "1.14.0"
+    "norska": "1.15.0"
   },
   "devDependencies": {
     "@microlink/mql": "0.8.2",
