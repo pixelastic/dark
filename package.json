@@ -6,7 +6,7 @@
   "devDependencies": {
     "@microlink/mql": "0.9.3",
     "aberlaas": "1.15.0",
-    "firost": "2.7.0"
+    "firost": "2.8.0"
   },
   "files": [],
   "license": "MIT",
